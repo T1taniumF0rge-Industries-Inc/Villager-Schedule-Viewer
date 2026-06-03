@@ -1,0 +1,20 @@
+{
+  "key.categories.villagerscheduleviewer": "Villager Schedule Viewer",
+  "key.villagerscheduleviewer.open_viewer": "Open Villager Viewer",
+  "key.villagerscheduleviewer.toggle_hud": "Toggle Villager HUD",
+  "key.villagerscheduleviewer.toggle_overlay": "Toggle POI Overlay",
+  "key.villagerscheduleviewer.open_dashboard": "Open Village Dashboard",
+  "text.villagerscheduleviewer.no_villager": "Look at a villager to inspect it.",
+  "text.villagerscheduleviewer.viewer.title": "Villager Schedule Viewer",
+  "text.villagerscheduleviewer.dashboard.title": "Nearby Villagers",
+  "text.villagerscheduleviewer.config.title": "Villager Schedule Viewer Config",
+  "text.villagerscheduleviewer.highlight.workstation": "Highlight Workstation",
+  "text.villagerscheduleviewer.highlight.bed": "Highlight Bed",
+  "text.villagerscheduleviewer.doctor": "Village Doctor",
+  "text.villagerscheduleviewer.dashboard.overview": "Overview",
+  "text.villagerscheduleviewer.dashboard.villagers": "Villagers",
+  "text.villagerscheduleviewer.dashboard.beds": "Beds",
+  "text.villagerscheduleviewer.dashboard.workstations": "Workstations",
+  "text.villagerscheduleviewer.dashboard.warnings": "Warnings",
+  "text.villagerscheduleviewer.dashboard.diagnostics": "Diagnostics"
+}
