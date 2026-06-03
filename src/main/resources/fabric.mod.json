@@ -5,7 +5,7 @@
   "name": "Villager Schedule Viewer",
   "description": "Helpful client-side villager AI inspection, schedule timeline, POI overlay, HUD, and village dashboard for debugging villager management.",
   "authors": ["Titan1um"],
-  "contact": { "sources": "https://example.invalid/villager-schedule-viewer" },
+  "contact": { "sources": "https:/modrinth.com/Titan1um" },
   "license": "MIT",
   "environment": "client",
   "entrypoints": {
