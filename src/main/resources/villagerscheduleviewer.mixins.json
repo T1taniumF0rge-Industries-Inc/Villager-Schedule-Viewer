@@ -1,0 +1,7 @@
+{
+  "required": false,
+  "package": "com.villagerscheduleviewer.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [],
+  "injectors": { "defaultRequire": 1 }
+}

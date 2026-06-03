@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "villagerscheduleviewer",
+  "version": "${version}",
+  "name": "Villager Schedule Viewer",
+  "description": "Client-side villager AI inspection, schedule timeline, POI overlay, HUD, and village dashboard for debugging villager management.",
+  "authors": ["OpenAI"],
+  "contact": { "sources": "https://example.invalid/villager-schedule-viewer" },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.villagerscheduleviewer.client.VillagerScheduleViewerClient"],
+    "modmenu": ["com.villagerscheduleviewer.compat.ModMenuIntegration"]
+  },
+  "mixins": ["villagerscheduleviewer.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=1.21 <=1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*",
+    "cloth-config": "*"
+  }
+}
