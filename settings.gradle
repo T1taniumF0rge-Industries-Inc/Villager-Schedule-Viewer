@@ -5,10 +5,18 @@ pluginManagement {
         mavenCentral()
     }
 }
+
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.ALLOW_PROJECT_REPOS)
+    repositoriesMode.set(RepositoriesMode.PREFER_PROJECT)
+
+    repositories {
+        mavenCentral()
+        maven { url = "https://maven.fabricmc.net/" }
+    }
 }
+
 repositories { 
     maven { url = 'https://maven.fabricmc.net/' }; mavenCentral()
 }
+
 rootProject.name = 'Villager-Schedule-Viewer'
